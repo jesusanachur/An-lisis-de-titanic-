@@ -7,11 +7,4 @@ Principales Hallazgos:
 6. **Tarifa**: Los pasajeros que pagaron tarifas más altas tuvieron mayores tasas de supervivencia.
 7. **Familia**: Los pasajeros que viajaban solos o con familias muy grandes tuvieron menores tasas de supervivencia.
 
-### Limitaciones:
-- Hay valores faltantes en algunas columnas como 'Age' y 'Cabin'.
-- Algunas relaciones podrían estar influenciadas por otros factores no considerados.
 
-### Posibles Áreas para Análisis Futuros:
-- Análisis de interacciones entre variables (ej: género y clase).
-- Modelado predictivo para predecir la supervivencia.
-- Análisis de texto en los nombres para extraer títulos y analizar su relación con la supervivencia.# An-lisis-de-titanic-
